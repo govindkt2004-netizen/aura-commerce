@@ -1,0 +1,6 @@
+{
+  "name": "AURA Commerce",
+  "description": "A modern, full-stack e-commerce platform with smooth animated UX, product catalog, cart & wishlist, secure checkout with Stripe, order tracking, and an admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
